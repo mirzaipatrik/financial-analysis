@@ -1,4 +1,4 @@
-# This project intends to perform financial Analysis of household's resilience during recessions
+# This project intends to perform financial analysis of household's resilience during recessions
 
 For the `API` repository:
 1. install `bun`
